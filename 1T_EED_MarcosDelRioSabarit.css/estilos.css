@@ -2,3 +2,8 @@ p {
     background-color: black;
     color: white;
 }
+
+.clase {
+    background-color: tomato;
+    color: darkblue;
+}
