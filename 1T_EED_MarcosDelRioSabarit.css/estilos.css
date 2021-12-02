@@ -6,4 +6,7 @@ p {
 .clase {
     background-color: tomato;
     color: darkblue;
+    border: cyan;
+    border-style: dashed;
+    border-radius: 10%;
 }
